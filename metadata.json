@@ -1,0 +1,6 @@
+{
+  "name": "VerlagsWerk KDP",
+  "description": "Geführtes KI-Buchstudio für Amazon KDP rund um die vier zeitlosen Grundbedürfnisse Geld, Beziehung, Glück und Gesundheit – inklusive Manuskript-Lektorat, Cover-Studio, automatischer Kindle- und Taschenbuch-Formatierung sowie KDP-Kopiervorlage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
